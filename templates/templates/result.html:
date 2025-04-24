@@ -1,0 +1,8 @@
+<!DOCTYPE html>
+<html>
+<body>
+    <h2>Processed File Ready</h2>
+    <p>Original: {{ original }}</p>
+    <p>Processed: <a href="/download/{{ processed }}">{{ processed }}</a></p>
+</body>
+</html>
